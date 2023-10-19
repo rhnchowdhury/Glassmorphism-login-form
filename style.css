@@ -1,7 +1,7 @@
 :root {
-    --background: #1a1a2e;
+    --background: #352F44;
     --color: #ffffff;
-    --primary-color: #0f3460;
+    --primary-color: #5C5470;
 }
 
 * {
@@ -148,6 +148,7 @@ h1 {
     -moz-transform: translate(-45%, -45%);
     -ms-transform: translate(-45%, -45%);
     -o-transform: translate(-45%, -45%);
+
 }
 
 .circle-two {
